@@ -1,4 +1,4 @@
-新闻@频道,#genre#
+新闻频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
@@ -8,7 +8,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
-电影@频道,#genre#
+电影频道,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
@@ -30,7 +30,7 @@ HBO,http://125.227.210.37:16027/VideoInput/play.ts
 电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
-4K©高清,#genre#
+4K高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文 10M1080,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -66,7 +66,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
-香港☒頻道,#genre#
+香港頻道,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
@@ -125,7 +125,7 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
-台湾☒頻道,#genre#
+台湾頻道,#genre#
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -199,7 +199,7 @@ FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 
-马来@50,#genre#
+马来频道,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
@@ -238,7 +238,7 @@ Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
-日本©頻道,#genre#
+日本頻道,#genre#
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Animax Japan (Vietnamese Subs)[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
@@ -257,7 +257,7 @@ Tokyo MX 2[1280*720][1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
 
 
-韩国©頻道,#genre#
+韩国頻道,#genre#
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
@@ -294,7 +294,7 @@ KBS World[1024*576][1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunk
 
 
 
-海外©頻道,#genre#
+海外頻道,#genre#
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -334,7 +334,7 @@ BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/inde
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
 
-體育©頻道,#genre#
+體育頻道,#genre#
 CCTV5[1280*720],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV5[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5[1920*1080],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
@@ -387,7 +387,7 @@ Sports[1280*720][1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chun
 
 
 
-TVB轮播@埋堆,#genre#
+TVB轮播埋堆,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
 埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8 
 埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8 
@@ -452,7 +452,7 @@ TVB轮播@埋堆,#genre#
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 
-回看@江苏PLTV移动CDN修改版,#genre#
+回看江苏PLTV移动CDN修改版,#genre#
 4K花园娱乐 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 凤凰中文 10M1080[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯 10M1080[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -582,7 +582,7 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江西风尚购物 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 江苏好享购物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-回看@卫视超清PLTV,#genre#
+回看卫视超清PLTV,#genre#
 CCTV1 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 CCTV5 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
@@ -660,7 +660,7 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
-回看@福建PLTV移动CDN修改版,#genre#
+回看福建PLTV移动CDN修改版,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
@@ -672,7 +672,7 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 卡酷少儿[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州[1280*720],http://pull.dayuntongzhou.com/live/tztv.m3u8
-回看@青海PLTV西宁移动ip版,#genre#
+回看青海PLTV西宁移动ip版,#genre#
 纯享4K 20M2160[3840*2160],http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1 4M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
 CCTV1 8M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8
@@ -802,7 +802,7 @@ CGTN纪录 576[785*576],http://39.134.155.141/PLTV/88888888/224/3221225507/index
 湖南金鹰卡通 4M576[1047*576],http://39.134.155.145/PLTV/88888888/224/3221225618/index.m3u8
 湖南金鹰纪实 4M576[768*576],http://39.134.155.135/PLTV/88888888/224/3221225623/index.m3u8
 果洛 4M576[1280*720],http://39.134.155.149/PLTV/88888888/224/3221225662/index.m3u8
-爱上@卫视,#genre#
+爱上卫视,#genre#
 CCTV1 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
 CCTV3 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
