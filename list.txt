@@ -20,6 +20,22 @@ HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+HBO HITS[1920*1080],http://107.167.5.66/mylive/102/2065/index.m3u8
+卫视电影台HD[1920*1080],http://107.167.5.66/mylive/102/2061/index.m3u8
+天映频道[1280*720],http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+天映频道[1280*720],http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+卫视电影台FHD[1920*1080],http://107.167.5.66/mylive/102/2061/index.m3u8
+HBO FHD[1920*1080],http://107.167.5.66/mylive/102/2065/index.m3u8
+HBO HITS[1920*1080],http://107.167.5.66/mylive/102/2065/index.m3u8
+HBO台1[1920*1080],http://107.167.5.66:80/mylive/102/2065/index.m3u8
+TV8[1280*720],http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV2[1280*720],http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+HBO[1280*720],http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+BOO[1280*720],http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+HBO台湾[1920*1080],http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+天映经典[960*540],http://50.7.161.82:8277/streams/d/celestial2_pye/playlist.m3u8
+奇艺影院[1280*720],http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+邵氏电影[800*600],http://pull.kktv8.com/livekktv/143960119.flv
 成龙,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
 电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
@@ -309,7 +325,7 @@ FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
+法国时尚[800*453],http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
